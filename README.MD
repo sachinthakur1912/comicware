@@ -132,7 +132,7 @@ This project is licensed under the MIT License.
 
 ### Author
 
-- **Your Name** - [Your GitHub Profile](https://github.com/your-username)
+- **Sachin Thakur** - [Your GitHub Profile](https://github.com/sachinthakur1912)
 
 ```
 
